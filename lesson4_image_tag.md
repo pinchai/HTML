@@ -34,7 +34,7 @@ Provides **alternative text** if the image cannot load.
 <img src="cat.jpg" alt="Cute cat sleeping">
 ```
 
-✔ Important for:
+Important for:
 - Accessibility (screen readers)  
 - SEO  
 - Broken images  
@@ -62,7 +62,7 @@ Using CSS:
 | HTML attributes | Quick/simple |
 | CSS (style) | Recommended, flexible |
 
-✔ Best practice:
+Best practice:
 
 ```html
 <img src="cat.jpg" style="width:100%; height:auto;">
