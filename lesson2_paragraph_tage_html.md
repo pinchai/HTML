@@ -1,8 +1,8 @@
-# 📘 Lesson 2: HTML Tags, Structure & Text Formatting
+# Lesson 2: HTML Tags, Structure & Text Formatting
 
 ---
 
-# 🧠 Lesson Objectives
+# Lesson Objectives
 
 - Understand what HTML Tags are  
 - Learn important Structure Tags  
@@ -12,7 +12,7 @@
 
 ---
 
-# 🏷️ What is an HTML Tag?
+# What is an HTML Tag?
 
 HTML Tag = element used to build a web page
 
@@ -26,7 +26,7 @@ HTML Tag = element used to build a web page
 
 ---
 
-# 🏗️ Structure Tags
+# Structure Tags
 
 ```html
 <html>
@@ -46,7 +46,7 @@ Content here
 
 ---
 
-# 🧱 Full HTML Example
+# Full HTML Example
 
 ```html
 <!DOCTYPE html>
@@ -63,7 +63,7 @@ Content here
 
 ---
 
-# ⚙️ Attributes
+# Attributes
 
 ```html
 <tag attribute="value">
@@ -77,7 +77,7 @@ Example:
 
 ---
 
-# 🔑 Common Attributes
+# Common Attributes
 
 - id  
 - class  
@@ -87,7 +87,7 @@ Example:
 
 ---
 
-# 📝 Paragraph & Text Tags
+# Paragraph & Text Tags
 
 ## Paragraph
 
@@ -118,7 +118,7 @@ Score: 90
 
 ---
 
-# 🎨 Text Formatting
+# Text Formatting
 
 ## Bold
 
@@ -157,7 +157,7 @@ x<sup>2</sup>
 
 ---
 
-# 🧪 Practice
+# Practice
 
 ```html
 <!DOCTYPE html>
@@ -185,7 +185,7 @@ Date: Today
 
 ---
 
-# 📌 Key Takeaways
+# Key Takeaways
 
 - Tags structure HTML  
 - Use semantic tags  
