@@ -1,6 +1,6 @@
-# 📘 Lesson 1: Introduction to Internet, WWW, HTML
+# Lesson 1: Introduction to Internet, WWW, HTML
 
-## 🌐 1. What is the Internet?
+## 1. What is the Internet?
 - A global network connecting computers worldwide  
 - Allows data communication (send & receive information)  
 - Used for:
@@ -10,7 +10,7 @@
 
 ---
 
-## 🌍 2. What is WWW (World Wide Web)?
+## 2. What is WWW (World Wide Web)?
 - A service running on the Internet  
 - Accessed using a Web Browser  
 - Uses:
@@ -19,26 +19,26 @@
 
 ---
 
-## 🌐 3. Types of Websites
+## 3. Types of Websites
 
-### 🔹 Static Website
+### Static Website
 - Built with HTML, CSS  
 - Content does not change  
 - Simple and fast  
 
-### 🔹 Dynamic Website
+### Dynamic Website
 - Connected to Database  
 - Uses backend languages:
   - PHP, Python, Java, C#  
 - Content changes based on user  
 
-### 🔹 Other Types
+### Other Types
 - E-commerce → Online shopping  
 - Blog / News → Content sharing  
 
 ---
 
-## ⚖️ 4. Static vs Dynamic
+## 4. Static vs Dynamic
 
 | Feature     | Static Website | Dynamic Website |
 |------------|--------------|----------------|
@@ -49,7 +49,7 @@
 
 ---
 
-## 🌎 5. Web Browser
+## 5. Web Browser
 Popular browsers:
 - Chrome  
 - Edge  
@@ -63,7 +63,7 @@ Functions:
 
 ---
 
-## 🧱 6. What is HTML?
+## 6. What is HTML?
 HTML = HyperText Markup Language  
 
 - Used to create web pages  
@@ -71,7 +71,7 @@ HTML = HyperText Markup Language
 
 ---
 
-## 💻 7. Example HTML Code
+## 7. Example HTML Code
 ```html
 <!DOCTYPE html>
 <html>
@@ -85,11 +85,11 @@ HTML = HyperText Markup Language
 </html>
 ```
 
-💡 Save as `.html` → Open in browser  
+Save as `.html` → Open in browser  
 
 ---
 
-## 🛠️ 8. HTML Editors
+## 8. HTML Editors
 
 ### Text Editors
 - Notepad  
@@ -105,7 +105,7 @@ HTML = HyperText Markup Language
 
 ---
 
-## 📌 9. Lesson Summary
+## 9. Lesson Summary
 
 - Internet = Global network  
 - WWW = Web service on Internet  
